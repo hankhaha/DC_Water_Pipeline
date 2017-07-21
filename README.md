@@ -7,7 +7,9 @@ Prediction on water main break in DC water data
     
 (2) Feature Selection: 
     a. RFE
-    b. Random Forest 
+    
+    b. Random Forest
+    
     c. Correlation Matrix
     
 (3) Evaluation of Machine Learning Models:
