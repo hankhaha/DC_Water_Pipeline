@@ -1,5 +1,6 @@
 # DC_Water_Pipeline
 Prediction on water main break in DC water data
+
 (1) Feature Tranformation: Converted the categorical values into numerical vlaues
     a. Creating Dummy Variables: For those columns that have several levels or categories, we assigned dummy variables to them
     b. Ordinal Data: Assigned 3 to "High",2 to "Moderate", and 1 to "Low" in those features.
